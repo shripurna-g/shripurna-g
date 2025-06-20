@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hi there, I'm Shripurna 👋
 
-<!--
-**shripurna-g/shripurna-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 CS + Biology @ BITS Pilani | Incoming Graduate Data Scientist @ CBA  
+- 🚀 AI Engineering | Research | Bioinformatics x ML x HPC
+----
 
-Here are some ideas to get you started:
+<!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+I'm a graduating dual-degree student from BITS Pilani (Computer Science + Biological Sciences), with hands-on experience in:
+
+- **Machine Learning & Deep Learning**
+- **Bioinformatics (RNA-seq, metagenomics, aDNA)**
+- **High-Performance & Parallel Computing (CUDA, OpenMPI, HPC clusters)**
+- **End-to-End ML Pipeline Development**
+
+I’ve worked across academia and industry — from automating investor-facing ML pipelines at Nielsen to designing GPU-accelerated clustering algorithms and publishing research in computational biology.
+
+
+---
+
+## Let's Connect 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shripurna-gangopadhyay/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://medium.com/@f20200603)
+
+---
+
+## Languages and Tools 🛠️
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?logo=nvidia&logoColor=white)
+![NVIDIA CUDA](https://img.shields.io/badge/-NVIDIA%20CUDA-76B900?logo=nvidia&logoColor=white)
+![Perl](https://img.shields.io/badge/-Perl-39457E?logo=perl&logoColor=white)
+
+
+---
+
+<!---## Certifications and Badges 🏅
+
+- [Add emoji and link to your certifications or badges]
+
+---
+
+Feel free to explore my repositories and reach out to connect or collaborate!
