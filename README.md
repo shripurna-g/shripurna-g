@@ -13,7 +13,7 @@ I'm a graduating dual-degree student from BITS Pilani (Computer Science + Biolog
 
 - **Machine Learning & Deep Learning**
 - **Bioinformatics (RNA-seq, metagenomics, aDNA)**
-- **High-Performance & Parallel Computing (CUDA, OpenMPI, HPC clusters)**
+- **High-Performance & Parallel Computing (SLURM, CUDA, OpenMPI, HPC clusters)**
 - **End-to-End ML Pipeline Development**
 
 I’ve worked across academia and industry — from automating investor-facing ML pipelines at Nielsen to designing GPU-accelerated clustering algorithms and publishing research in computational biology.
