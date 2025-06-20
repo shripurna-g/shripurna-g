@@ -1,7 +1,4 @@
 ## Hi there, I'm Shripurna 👋
-
-- 🎓 CS + Biology @ BITS Pilani | Incoming Graduate Data Scientist @ CBA  
-- 🚀 AI Engineering | Research | Bioinformatics x ML x HPC
 ----
 
 <!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
@@ -9,22 +6,35 @@
 
 ## About Me
 
-I'm a graduating dual-degree student from BITS Pilani (Computer Science + Biological Sciences), with hands-on experience in:
+- 🎓 final year CS undergrad 
+- 💼 Currently working on MLOps and Data pipelines
+- 🌱 Always exploring new technologies
+- 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
 
-- **Machine Learning & Deep Learning**
-- **Bioinformatics (RNA-seq, metagenomics, aDNA)**
-- **High-Performance & Parallel Computing (SLURM, CUDA, OpenMPI, HPC clusters)**
-- **End-to-End ML Pipeline Development**
+Hi, I’m Shripurna 👋  
 
-I’ve worked across academia and industry — from automating investor-facing ML pipelines at Nielsen to designing GPU-accelerated clustering algorithms and publishing research in computational biology.
+I'm a Machine Learning Engineer who designs clean, scalable systems for high-noise, niche problems.
 
+My core interest lies in building **reliable, graceful systems** for domains where definitions are fuzzy, data is messy, and stakes are high. That curiosity has led me across problems in:
+- disease prediction & biomarker discovery  
+- drought-resistant crop development  
+- telomere biology & ancient DNA  
+- fraud detection & algorithm design
+
+🔹 I care about design principles and making complex ideas **deployable**, **maintainable**, and **elegant**  
+🔹 My tools include: Python, CUDA, Shell, Bash, Git workflows, AWS
+🔹 Currently: Intern @ Nielsen (multimodal segmentation for ad-intel) | upcoming Data Scientist @ Commonwealth Bank of Australia (fraud detection at scale)  
+<!-- Also: Co-authoring a metagenomics paper and contributing to open source-->
+
+If you're working on strange problems that need smart systems - let’s talk.
 
 ---
 
-## Let's Connect 🌐
+## Connect with Me 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/shripurna-gangopadhyay/)
 [![Medium](https://img.shields.io/badge/Medium-Follow-green)](https://medium.com/@f20200603)
+
 
 ---
 
