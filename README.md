@@ -4,9 +4,9 @@
 - 💼 Currently working on MLOps and Data pipelines
 - 🌱 Always exploring new technologies
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
-----
 
-##About Me
+-----------------------------
+## About Me
 <!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
 
 🔹 Machine Learning Engineer passionate about building **reliable, graceful systems** for domains with fuzzy definitions, and messy data. 
