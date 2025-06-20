@@ -1,17 +1,13 @@
 ## Hi there, I'm Shripurna 👋
-----
-
-<!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
-
-
-## About Me
 
 - 🎓 final year CS undergrad 
 - 💼 Currently working on MLOps and Data pipelines
 - 🌱 Always exploring new technologies
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
+----
 
-Hi, I’m Shripurna 👋  
+<!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
+
 
 I'm a Machine Learning Engineer who designs clean, scalable systems for high-noise, niche problems.
 
