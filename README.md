@@ -1,6 +1,6 @@
 ## Hi there, I'm Shripurna 👋
 
-- 🎓 final year CS undergrad 
+- 🎓 final year CS undergrad | Intern @ Nielsen (multimodal segmentation for ad-intel) | upcoming Data Scientist @ Commonwealth Bank of Australia (fraud detection at scale)  
 - 💼 Currently working on MLOps and Data pipelines
 - 🌱 Always exploring new technologies
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
@@ -17,7 +17,7 @@
   - algorithm design
     
 🔹 My tools include: Python, CUDA, Shell, Bash, Git workflows, Docker, AWS
-🔹 Currently: Intern @ Nielsen (multimodal segmentation for ad-intel) | upcoming Data Scientist @ Commonwealth Bank of Australia (fraud detection at scale)  
+
 <!-- Also: Co-authoring a metagenomics paper and contributing to open source-->
 
 ---
