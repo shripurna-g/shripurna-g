@@ -8,8 +8,7 @@
 ## About Me
 <!--![Profile Views](https://komarev.com/ghpvc/?username=tacocat0200) -->
 
-🔹 Machine Learning Engineer passionate about building **reliable, graceful systems** for domains with fuzzy definitions, and messy data. 
-🔹 That curiosity led me to problems spanning: 
+Machine Learning Engineer passionate about building **reliable, graceful systems** for domains with fuzzy definitions, and messy data. A passion that has led me to explore problems spanning:
   - disease prediction & biomarker discovery  
   - drought-resistant crop development  
   - telomere biology & ancient DNA  
