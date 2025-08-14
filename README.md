@@ -1,7 +1,6 @@
 ## Hi there, I'm Shripurna 👋
 
-- 🎓 final year CS undergrad | Intern @ Nielsen (multimodal segmentation for ad-intel) | upcoming Data Scientist @ Commonwealth Bank of Australia (fraud detection at scale)  
-- 💼 Currently working on MLOps and Data pipelines
+- 💼 Graduate Data Scientist @ Commonwealth Bank of Australia 
 - 📝 Check out my latest articles at [Medium](https://medium.com/@f20200603)
 
 -----------------------------
